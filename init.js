@@ -3,7 +3,7 @@ const gridBorderColor = '#aaa';
 const gridFillColor = '#222';
 const gridEmptyColor = '#fff';
 const size = 20;
-const centerSize = 1;
+const centerSize = 5;
 const fps = 100;
 
 // calculate radius
