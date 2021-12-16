@@ -1,0 +1,3 @@
+// starts here
+clearGrid();
+createGrid();
